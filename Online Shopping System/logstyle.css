@@ -1,0 +1,26 @@
+h1{
+	font-family:Courier New;
+	font-size: 30px;
+	text-align:center;
+	color:red;
+	
+	
+}
+h3{
+	color:red;
+	text-align:center;
+	font-size: 30px;
+}
+fieldset{
+	
+	text-align:center;
+	border: 2px solid # 000000;
+	border-width:10px;
+	width: 400px;
+	display: inline-block;
+	margin:auto
+	
+}
+.top{
+	text-align: center;
+}
